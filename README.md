@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="circuit.svg" width="100%" alt="Circuit animation" />
+
 # Omar Rabieh
 
 Computer Engineering · **Birzeit University**
